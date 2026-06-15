@@ -110,8 +110,8 @@ const About = () => {
             {/* Resume Button with Download Functionality */}
             <div className="pt-4 flex flex-wrap items-center gap-8">
                <a 
-                 href="/JAVERIA RESUME .pdf" 
-                 download="JAVERIA RESUME .pdf"
+                 href="/gallery/Javeria resume.jpeg" 
+                 download="Javeria_Resume.jpeg"
                  className="border border-white/20 text-white px-10 py-4 rounded-full font-bold hover:bg-white hover:text-black transition-all inline-block cursor-pointer"
                >
                  Download My Resume
